@@ -1,0 +1,7 @@
+[package]
+name = "gbaimage"
+version = "0.1.0"
+authors = ["uknys"]
+
+[dependencies]
+image = "0.18.0"
